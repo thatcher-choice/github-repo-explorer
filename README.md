@@ -48,21 +48,25 @@ The app is organized into the following components:
 5. **Pagination**: This component handles pagination for the list of repositories. It allows users to navigate between pages to view more repositories.
 
 ## Folder Structure
+src/
 
-github-repo-explorer/
-├── src/
-│ ├── assets/ # Contains images and logos
-│ ├── components/ # Contains React components
-│ │ ├── Cards.js # Component to display repository cards
-│ │ ├── SearchBar.js # Component for search input field
-│ │ ├── SortDropdown.js # Component for sorting dropdown menu
-│ ├── App.css # CSS styles for the app
-│ ├── App.js # Main component of the application
-│ ├── index.css # Global CSS styles
-│ ├── index.js # Entry point of the application
-├── README.md # Project documentation
-└── package.json # List of dependencies and scripts
+assets/: Contains images and logos.
 
+components/: Contains React components.
+
+Cards.js: Component to display repository cards.
+
+SearchBar.js: Component for search input field.
+
+SortDropdown.js: Component for sorting dropdown menu.
+
+App.css: CSS styles for the app.
+
+App.js: Main component of the application.
+
+index.css: Global CSS styles.
+
+index.js: Entry point of the application.
 
 ## Getting Started
 
