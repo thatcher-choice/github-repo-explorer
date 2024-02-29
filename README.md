@@ -18,10 +18,6 @@ The app is organized into the following components:
 3. **SortDropdown**: This component renders a dropdown menu with sorting options. Users can select different sorting criteria from the dropdown.
 4. **Cards**: This component displays a card for each repository. Each card includes information such as the repository's avatar, name, stars, description, and language.
 
-# GitHub Repository Explorer App
-
-Welcome to the GitHub Repository Explorer App! This ReactJS application allows users to search for public repositories on GitHub and view detailed information about each repository. Users can also sort the repositories based on various criteria such as stars, watchers count, score, name, created_at, and updated_at.
-
 ## Getting Started
 
 To run the app locally, follow these steps:
