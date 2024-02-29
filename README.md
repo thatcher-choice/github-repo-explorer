@@ -84,6 +84,11 @@ To run the app locally, follow these steps:
 - Axios: A promise-based HTTP client for making API requests.
 
 ## Screenshots
+![Screenshot 2024-02-29 235122](https://github.com/thatcher-choice/github-repo-explorer/assets/67758316/3c14dec7-bef1-4b89-ab4e-e257dddbc2a8)
+
+![Screenshot 2024-03-01 002233](https://github.com/thatcher-choice/github-repo-explorer/assets/67758316/7062bd69-757a-4578-8a03-1b6440cf18a9)
+
+![Screenshot 2024-03-01 002320](https://github.com/thatcher-choice/github-repo-explorer/assets/67758316/05abea8e-fa03-4333-a7f0-13e59b4332ed)
 
 
 
